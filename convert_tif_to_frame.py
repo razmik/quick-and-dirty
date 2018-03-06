@@ -18,7 +18,7 @@ def video_to_frame(dataset, train_or_test):
 
     for video_folder in video_file_folders:
 
-        outfolder = join(frame_path, video_folder)
+        outfolder = join(frame_path, video_folder[-2:])
         os.makedirs(outfolder, exist_ok=True)
 
         for tiff_filename in [f for f in listdir(join(video_path, video_folder)) if isfile(join(join(video_path, video_folder), f))]:
