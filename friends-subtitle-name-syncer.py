@@ -1,7 +1,8 @@
 from os import listdir, rename
 from os.path import isfile, join
 
-folder_name = 'C:/Users\pc\Desktop/Friends S03 720p BluRay x264 PaHe.in/'.replace('\\', '/')
+# folder_name = 'C:/Users\pc\Desktop/Friends S06 720p BluRay x264 PaHe.in/'.replace('\\', '/')
+folder_name = 'H:\TV Series\Friends Season 1-10 COMPLETE 720p BrRip x264 [PAHE.in]\Friends S10 720p BluRay x264 PaHe.in/'.replace('\\', '/')
 
 """
 video: Friends.S03E02.720p.BluRay.x264.195MB-PAHE.in.mkv
