@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/quick-and-dirty.iml" filepath="$PROJECT_DIR$/.idea/quick-and-dirty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tensors/.idea/tensors.iml" filepath="$PROJECT_DIR$/../tensors/.idea/tensors.iml" />
     </modules>
   </component>
 </project>
